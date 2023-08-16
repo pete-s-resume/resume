@@ -1,0 +1,1 @@
+Channel_access_token = "xISocCe4KR2Tof27ZGGUCSH7OM86d9/wjcs+3SD9ZRKp76Xi2rlicHz92suHSg6/+Ur6WW+L3Ak9ic4gJTH0o+Y7Y1k/0MQt3idhrZNAX1npRNObXlMHpFIwVDPZnNyfimf7/DBtZ03tJxZz9kO+xgdB04t89/1O/w1cDnyilFU="
